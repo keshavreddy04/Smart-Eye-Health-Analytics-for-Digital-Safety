@@ -49,27 +49,30 @@ The dataset (`eyecare_defender_dataset.csv`) contains records related to screen 
    git clone https://github.com/your-username/mini-project.git
    cd mini-project
 
-## Install dependencies:
-
-pip install -r requirements.txt
 
 ## Open the Jupyter Notebook:
 
-jupyter notebook Untitled.ipynb
+SmartEye.ipynb
 
 ## Sample Data
 
-The project includes sample images (eye22.jpg, eye33.jpg, etc.) used for demonstrations.
+- The project includes sample images (eye22.jpg, eye33.jpg, etc.) used for demonstrations.
 
 ## 📌 Future Enhancements
 
-Implement real-time eye monitoring using webcam + OpenCV.
+- Implement real-time eye monitoring using webcam + OpenCV.
 
-Add machine learning models for predictive analysis.
+- Add machine learning models for predictive analysis.
 
-Build a GUI dashboard for user-friendly monitoring.
+- Build a GUI dashboard for user-friendly monitoring.
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+- Contributions, issues, and feature requests are welcome!
 Feel free to fork this repo and submit a pull request.
+
+## 👨‍💻 Author
+
+- V Om Keshava Reddy
+- 📌 B.Tech CSE (AI & ML), SRM University
+- 🔗 [LinkedIn](https://www.linkedin.com/in/v-om-keshava-reddy-792478349/)| [GitHub](https://github.com/keshavreddy04)| [LeetCode](https://leetcode.com/u/keshav_30/)
